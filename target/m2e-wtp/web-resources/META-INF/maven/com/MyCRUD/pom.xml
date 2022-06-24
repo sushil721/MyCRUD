@@ -8,7 +8,7 @@
   <name>MyCRUD Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <resteasy.version>3.0.8.Final</resteasy.version>
+    <resteasy.version>3.14.0.Final</resteasy.version>
     <resteasy.scope>compile</resteasy.scope>        <!-- compile(Tomcat) / provided(JBoss) -->
     <spring.version>4.0.6.RELEASE</spring.version> <!-- 4.x doesn't work with RestEasy directly -->
     <hibernate.version>4.3.6.Final</hibernate.version>
