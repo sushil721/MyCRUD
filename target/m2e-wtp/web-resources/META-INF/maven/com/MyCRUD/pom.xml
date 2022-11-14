@@ -10,7 +10,7 @@
   <properties>
     <resteasy.version>3.0.8.Final</resteasy.version>
     <resteasy.scope>compile</resteasy.scope>        <!-- compile(Tomcat) / provided(JBoss) -->
-    <spring.version>4.0.6.RELEASE</spring.version> <!-- 4.x doesn't work with RestEasy directly -->
+    <spring.version>4.2.7.RELEASE</spring.version> <!-- 4.x doesn't work with RestEasy directly -->
     <hibernate.version>4.3.6.Final</hibernate.version>
     <servlet.version>3.1.0</servlet.version>
     <jstl.version>1.2</jstl.version>
